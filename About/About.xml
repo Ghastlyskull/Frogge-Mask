@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<packageId>Ghastly.FroggeMask</packageId>
+    <name>Frogge Mask</name>
+    <author>ghastlyskull</author>
+    <supportedVersions>
+		<li>1.5</li>
+	</supportedVersions>
+	<modDependencies>
+		<li>
+			<packageId>Ludeon.RimWorld.Ideology</packageId>
+			<displayName>Rimworld - Ideology</displayName>
+			<steamWorkshopUrl>https://store.steampowered.com/app/1392840/RimWorld__Ideology/</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>Ludeon.RimWorld</li>
+		<li>Ludeon.RimWorld.Ideology</li>
+		<li>Ludeon.RimWorld.Anomaly</li>
+	</loadAfter>
+    <description>Adds a Frogge Mask thats based off of Frogge inside Mr Samuel Streamer's Flavor Pack</description>
+</ModMetaData>
